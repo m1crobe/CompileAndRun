@@ -1,0 +1,1 @@
+cmd /k ""C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\Tools\VsDevCmd.bat" && cd /d "$(CURRENT_DIRECTORY)" &&  cl /W4 "$(CURRENT_DIRECTORY)\$(NAME_PART).c" && "$(CURRENT_DIRECTORY)\$(NAME_PART)""
