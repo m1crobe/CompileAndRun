@@ -1,6 +1,6 @@
 # CompileAndRun
-A set of commands for Notepad++ that allow for easy compiling of C code.
-Currently works for GCC and Microsoft Visual Studio Compiler.
+A macro for Notepad++ made for ENGGEN 131 students learning C.
+Works for GCC and Microsoft Visual Studio Compiler.
 
 ## Method
 1. In Notepad++ press F5 or click Run > Run to open the Run prompt.
@@ -10,4 +10,4 @@ Currently works for GCC and Microsoft Visual Studio Compiler.
 
 **Notes:**  
 * When the command is run, the executable will be named the same as the source file and will be saved in the same directory.  
-* A simple test program has been included. If the command executes successfully, a command window should open displaying "Hello World".
+* A simple test program has been included. If the command executes successfully, a command window will open displaying "Hello World".
